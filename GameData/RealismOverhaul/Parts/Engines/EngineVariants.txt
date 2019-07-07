@@ -1,0 +1,57 @@
+Colors used for the engine variants based on MOD
+
+AIES:
+	primaryColor: #b488ea
+	secondaryColor: #683019
+
+Bluedog:
+	primaryColor: #709fea
+	secondaryColor: #d1eeff
+	
+Coatl Aerospace:
+	primaryColor: #888589
+	secondaryColor: #cecebe
+
+FASA:
+	primaryColor: #4f81d1
+	secondaryColor: #9c9c9c
+	
+MandatoryRCS
+	primaryColor: #42f45f
+	secondaryColor: #5a6866
+	
+RaiderNick:
+	primaryColor: #e28426
+	secondaryColor: #7a7570
+	
+RealEngine
+	primaryColor: #928e99
+	secondaryColor: #ffffff
+	
+Saab Historical Pack
+	primaryColor: #ddc640
+	secondaryColor: #8d9367
+	
+Squad:
+	primaryColor: #a0407d
+	secondaryColor: #e8ccbb
+	
+SquadExpansion:
+	primaryColor: #a0407d
+	secondaryColor: #9c9c9c
+	
+SSTU:
+	primaryColor: #908596
+	secondaryColor: #ede1f4
+	
+SXT:
+	primaryColor: #752d15
+	secondaryColor: #96908e
+	
+Tarobee
+	primaryColor: #07c000
+	secondaryColor: #ffffff
+
+VSR:
+	primaryColor: #824f82
+	secondaryColor: #e8ccbb
